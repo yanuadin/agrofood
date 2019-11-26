@@ -1,0 +1,1264 @@
+Uri: http://bdevs.net/orgafe/
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\index.htm
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/img/bg/bg.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\bg\bg.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/img/favicon.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\favicon.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/css/bootstrap.min.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/css/animate.min.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\css\animate.min.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/css/owl.carousel.min.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/css/magnific-popup.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/css/fontawesome-all.min.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/css/default.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\css\default.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/css/style.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\css\style.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/css/responsive.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\css\responsive.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/orgafe/index.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\index.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/index-2.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\index-2.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/index-3.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\index-3.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/about.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\about.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/gallery.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\gallery.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/contact.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\contact.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/blog.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\blog.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/team.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\team.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/img/logo/logo.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\logo\logo.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/img/demos/home1.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\demos\home1.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/img/demos/home2.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\demos\home2.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/img/demos/home3.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\demos\home3.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/img/demos/about.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\demos\about.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/img/demos/services.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\demos\services.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/img/demos/gallery.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\demos\gallery.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/img/demos/contact.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\demos\contact.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/img/demos/blog.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\demos\blog.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/img/demos/team.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\demos\team.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/img/icon/bootstrap.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\icon\bootstrap.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/img/icon/slick.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\icon\slick.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/img/icon/flat-icon.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\icon\flat-icon.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/img/icon/fontaersome.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\icon\fontaersome.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/img/icon/html5.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\icon\html5.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/img/icon/css3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\icon\css3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/img/icon/jquery.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\icon\jquery.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/img/icon/w3c-validation.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\icon\w3c-validation.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/img/icon/responsive.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\icon\responsive.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/img/icon/code.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\icon\code.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/img/icon/mail.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\icon\mail.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/img/icon/google-font.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\icon\google-font.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/img/icon/magnific-popup.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\icon\magnific-popup.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/img/icon/speed.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\icon\speed.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/img/icon/document.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\img\icon\document.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/js/vendor/modernizr-3.5.0.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\js\vendor\modernizr-3.5.0.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/js/vendor/jquery-1.12.4.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\js\vendor\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/js/popper.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/js/bootstrap.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/js/owl.carousel.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/js/isotope.pkgd.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/js/ajax-form.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\js\ajax-form.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/js/imagesloaded.pkgd.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/js/jquery.magnific-popup.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/js/wow.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\js\wow.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/js/plugins.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\js\plugins.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/js/main.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\js\main.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/fonts/fa-brands-400.eot
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bdevs.net/orgafe/fonts/fa-brands-400.eot?
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bdevs.net/orgafe/fonts/fa-brands-400.woff2
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-brands-400.woff2
+Content Type: 
+
+Uri: http://bdevs.net/orgafe/fonts/fa-brands-400.woff
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-brands-400.woff
+Content Type: application/x-font-woff
+
+Uri: http://bdevs.net/orgafe/fonts/fa-brands-400.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-brands-400.ttf
+Content Type: 
+
+Uri: http://bdevs.net/orgafe/fonts/fa-brands-400.svg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://bdevs.net/orgafe/fonts/fa-regular-400.eot
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bdevs.net/orgafe/fonts/fa-regular-400.eot?
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bdevs.net/orgafe/fonts/fa-regular-400.woff2
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-regular-400.woff2
+Content Type: 
+
+Uri: http://bdevs.net/orgafe/fonts/fa-regular-400.woff
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-regular-400.woff
+Content Type: application/x-font-woff
+
+Uri: http://bdevs.net/orgafe/fonts/fa-regular-400.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-regular-400.ttf
+Content Type: 
+
+Uri: http://bdevs.net/orgafe/fonts/fa-regular-400.svg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://bdevs.net/orgafe/fonts/fa-solid-900.eot
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bdevs.net/orgafe/fonts/fa-solid-900.eot?
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bdevs.net/orgafe/fonts/fa-solid-900.woff2
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-solid-900.woff2
+Content Type: 
+
+Uri: http://bdevs.net/orgafe/fonts/fa-solid-900.woff
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-solid-900.woff
+Content Type: application/x-font-woff
+
+Uri: http://bdevs.net/orgafe/fonts/fa-solid-900.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-solid-900.ttf
+Content Type: 
+
+Uri: http://bdevs.net/orgafe/fonts/fa-solid-900.svg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Rubik:300,400,500,700,900
+File Name: D:\Edo Project\New Template\bdevs.net\css.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg1.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg1.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg2.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg2.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg3.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg3.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg4.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg4.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg5.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg5.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/favicon.ico
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: http://bdevs.net/orgafe/orgafe/css/bootstrap.min.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/orgafe/css/owl.carousel.min.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/orgafe/css/animate.min.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\css\animate.min.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/orgafe/css/magnific-popup.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/orgafe/css/fontawesome-all.min.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/orgafe/css/dripicons.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\css\dripicons.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/orgafe/css/meanmenu.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\css\meanmenu.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/orgafe/css/slick.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\css\slick.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/orgafe/css/default.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\css\default.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/orgafe/css/style.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\css\style.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/orgafe/css/responsive.css
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\css\responsive.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/orgafe/services.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\services.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/shop.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\shop.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/gallery-no-gutter.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\gallery-no-gutter.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/gallery-2-col.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\gallery-2-col.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/gallery-2-col-no-gutter.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\gallery-2-col-no-gutter.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/gallery-details.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\gallery-details.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/faq.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\faq.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/blog-details.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\blog-details.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/product-details.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\product-details.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/services-details.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\services-details.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/404.html
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\404.html
+Content Type: text/html
+
+Uri: http://bdevs.net/orgafe/orgafe/img/gallery/gallery1.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\gallery\gallery1.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/gallery/gallery2.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\gallery\gallery2.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/gallery/gallery3.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\gallery\gallery3.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/gallery/gallery4.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\gallery\gallery4.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/gallery/gallery5.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\gallery\gallery5.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/gallery/gallery6.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\gallery\gallery6.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/logo/logo.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\logo\logo.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/logo/logo-white.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\logo\logo-white.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/shape3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\shape3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/about/about.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\about\about.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/icon1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\icon1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/fea1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\fea1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/shape1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\shape1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/fea2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\fea2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/shape2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\shape2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/fea3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\fea3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/fea4.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\fea4.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/pro1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\pro1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/pro2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\pro2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/pro3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\pro3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/pro4.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\pro4.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/icon2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\icon2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/product/product1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\product\product1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/product/product2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\product\product2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/product/product3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\product\product3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/product/product4.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\product\product4.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/icon3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\icon3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/icon5.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\icon5.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/team/team1.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\team\team1.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/team/team2.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\team\team2.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/team/team3.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\team\team3.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/team/team4.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\team\team4.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/c1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\c1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/c2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\c2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/c3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\c3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/icon6.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\icon6.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/testimonial/test.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\testimonial\test.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/shape1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\shape1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/shape2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\shape2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/icon7.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\icon7.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/blog1.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\blog1.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/blog2.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\blog2.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/blog3.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\blog3.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/instagram/instagram1.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\instagram\instagram1.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/instagram/instagram2.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\instagram\instagram2.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/instagram/instagram3.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\instagram\instagram3.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/instagram/instagram4.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\instagram\instagram4.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/instagram/instagram5.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\instagram\instagram5.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/instagram/instagram6.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\instagram\instagram6.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/js/vendor/modernizr-3.5.0.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\vendor\modernizr-3.5.0.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/vendor/jquery-1.12.4.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\vendor\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/popper.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/bootstrap.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/jquery.counterup.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/jquery.countdown.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/waypoints.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/owl.carousel.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/isotope.pkgd.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/slick.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\slick.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/jquery.meanmenu.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\jquery.meanmenu.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/ajax-form.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\ajax-form.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/wow.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\wow.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/jquery.scrollUp.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\jquery.scrollUp.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/imagesloaded.pkgd.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/jquery.magnific-popup.min.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/plugins.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\plugins.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/js/main.js
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\js\main.js
+Content Type: application/javascript
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg6.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg6.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg7.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg7.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg8.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg8.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg9.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg9.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg10.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg10.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/slider/sl1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\slider\sl1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/about/about1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\about\about1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/f1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\f1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/f2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\f2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/f3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\f3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/ser1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\ser1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/ser2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\ser2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/ser3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\ser3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/icon8.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\icon8.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/deal.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\deal.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/te1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\te1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/te2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\te2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/te3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\te3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/te4.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\te4.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/blog-4.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\blog-4.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/blog-5.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\blog-5.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/brand/brand1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\brand\brand1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg11.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg11.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg12.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg12.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg13.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg13.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg14.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg14.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/slider/sl2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\slider\sl2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/slider/sl3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\slider\sl3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/slider/sl4.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\slider\sl4.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/slider/sl5.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\slider\sl5.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/ab1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\ab1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/ab2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\ab2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/ab3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\ab3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg4.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg4.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/deal1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\deal1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/s1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\s1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/s2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\s2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/s1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\s1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/s2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\s2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/s3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\s3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/s4.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\s4.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/s5.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\s5.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/s6.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\s6.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/b.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\b.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/b2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\b2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/brand/01.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\brand\01.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/brand/02.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\brand\02.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/brand/03.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\brand\03.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/brand/04.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\brand\04.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/brand/05.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\brand\05.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/testimonial/test1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\testimonial\test1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/bl1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\bl1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/bl2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\bl2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/bl3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\bl3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/shape/bl4.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\shape\bl4.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/blog5.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\blog5.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/blog6.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\blog6.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg15.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg15.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg16.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg16.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg17.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg17.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/about/about2.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\about\about2.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/about/about3.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\about\about3.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/what.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\what.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/w1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\w1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/w2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\w2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/w3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\w3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/b1.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\b1.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/b2.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\b2.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/b4.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\b4.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/b3.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\b3.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/details/me.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\details\me.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/details/img1.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\details\img1.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/details/img2.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\details\img2.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/details/img3.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\details\img3.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg20.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg20.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/team/team5.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\team\team5.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/team/team6.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\team\team6.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/team/team7.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\team\team7.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/team/team8.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\team\team8.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\s\poppins\v9\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\s\poppins\v9\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\s\poppins\v9\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\s\poppins\v9\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7Fqj2md8WU.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\s\rubik\v9\iJWHBXyIfDnIV7Fqj2md8WU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v9/iJWKBXyIfDnIV7nBrXk.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\s\rubik\v9\iJWKBXyIfDnIV7nBrXk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7Eyjmmd8WU.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\s\rubik\v9\iJWHBXyIfDnIV7Eyjmmd8WU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7F6iGmd8WU.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\s\rubik\v9\iJWHBXyIfDnIV7F6iGmd8WU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7FCimmd8WU.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\s\rubik\v9\iJWHBXyIfDnIV7FCimmd8WU.ttf
+Content Type: font/ttf
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-brands-400.eot
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-brands-400.eot?
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-brands-400.woff2
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-brands-400.woff2
+Content Type: 
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-brands-400.woff
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-brands-400.woff
+Content Type: application/x-font-woff
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-brands-400.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-brands-400.ttf
+Content Type: 
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-brands-400.svg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-regular-400.eot
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-regular-400.eot?
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-regular-400.woff2
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-regular-400.woff2
+Content Type: 
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-regular-400.woff
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-regular-400.woff
+Content Type: application/x-font-woff
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-regular-400.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-regular-400.ttf
+Content Type: 
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-regular-400.svg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-solid-900.eot
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-solid-900.eot?
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-solid-900.woff2
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-solid-900.woff2
+Content Type: 
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-solid-900.woff
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-solid-900.woff
+Content Type: application/x-font-woff
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-solid-900.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-solid-900.ttf
+Content Type: 
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/fa-solid-900.svg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/dripicons-v2.eot
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\dripicons-v2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/dripicons-v2.eot?
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\dripicons-v2-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/dripicons-v2.woff
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\dripicons-v2.woff
+Content Type: application/x-font-woff
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/dripicons-v2.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\dripicons-v2.ttf
+Content Type: 
+
+Uri: http://bdevs.net/orgafe/orgafe/fonts/dripicons-v2.svg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\fonts\dripicons-v2.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900|Rubik:300,400,500,700,900
+File Name: D:\Edo Project\New Template\bdevs.net\css-1.css
+Content Type: text/css
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg18.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg18.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/bg19.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\bg19.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/icon9.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\icon9.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/p1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\p1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/p2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\p2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/icon/p3.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\icon\p3.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/product/product5.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\product\product5.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/product/product6.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\product\product6.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/product/product7.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\product\product7.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/gallery/lg1.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\gallery\lg1.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/gallery/lg2.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\gallery\lg2.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/gallery/lg3.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\gallery\lg3.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/gallery/lg4.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\gallery\lg4.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/gallery/lg5.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\gallery\lg5.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/details/author.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\details\author.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/details/comments1.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\details\comments1.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/blog/details/comments2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\blog\details\comments2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/product/lg1.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\product\lg1.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/product/comments/01.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\product\comments\01.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/product/comments/02.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\product\comments\02.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/service/sidebar1.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\service\sidebar1.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/service/s-banner.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\service\s-banner.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/service/ser1.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\service\ser1.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/service/icon.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\service\icon.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/service/ser2.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\service\ser2.png
+Content Type: image/png
+
+Uri: http://bdevs.net/orgafe/orgafe/img/service/ser3.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\service\ser3.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/service/ser4.jpg
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\service\ser4.jpg
+Content Type: image/jpeg
+
+Uri: http://bdevs.net/orgafe/orgafe/img/bg/404.png
+File Name: D:\Edo Project\New Template\bdevs.net\orgafe\orgafe\img\bg\404.png
+Content Type: image/png
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\s\poppins\v9\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: D:\Edo Project\New Template\bdevs.net\s\poppins\v9\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+

@@ -880,13 +880,21 @@ label {
 
 /* 6. product */
 .product-wrapper {
+	height: 23em;
 	background: #f1f6fa;
 	padding: 50px 0 43px 0;
 	border-radius: 10px;
 	position: relative;
 }
+.product-wrapper >div:first-child{
+ margin-top: 2em;
+ height: 60%;
+}
+.product-wrapper >div:last-child{
+height: 40%;
+}
 .product-img {
-	margin-bottom: 36px;
+	/*margin-bottom: 36px;*/
 }
 .product-img > a{}
 .product-img > a img {}

@@ -4088,3 +4088,7 @@ ul.cat li a:hover {
 	background: #fd7e14;
 	color: white;
 }
+
+.break-word{
+	word-wrap: break-word;
+}
